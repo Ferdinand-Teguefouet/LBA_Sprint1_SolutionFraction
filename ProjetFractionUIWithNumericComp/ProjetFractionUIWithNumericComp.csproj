@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="D:\Formation_Dev.NET_Technifutur\C#9\Labo Autonome\LBA_sorint1_SolutionFraction\FractionBLL\FractionBLL.csproj" />
+    <ProjectReference Include="D:\Formation_Dev.NET_Technifutur\C#9\Labo Autonome\LBA_sorint1_SolutionFraction\ProjetFractionDTO\ProjetFractionDTO.csproj" />
+  </ItemGroup>
+
+</Project>
